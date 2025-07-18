@@ -56,6 +56,8 @@
 Tham khảo hướng dẫn keymap bằng cách:
 - Quét QR code đi kèm
 - Truy cập web: [github.com/hieupham0012](https://github.com/hieupham0012)
+# ![Layout corne v4](https://github.com/Hieupham0012/Wireless-Keyboard-User-Guide/blob/main/Screenshot%202025-07-18%20at%2020.02.05.png)
+# ![Layout Soffle v2.1 RGB pandaKB](https://github.com/Hieupham0012/Wireless-Keyboard-User-Guide/blob/main/Screenshot%202025-07-18%20at%2020.02.39.png)
 
 **Lưu ý**:
 - Sofle v2.1 RGB PandaKB và Corne v4 Wireless layout 42 có thể keymap khác theo nhu cầu
